@@ -1,0 +1,1 @@
+fabricaDinamica.InseriDados=fabricaDinamica.SalvaDB
