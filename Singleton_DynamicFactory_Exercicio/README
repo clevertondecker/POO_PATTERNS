@@ -1,0 +1,9 @@
+Dupla: Cleverton, Francine.
+
+Para gravar objeto no banco de dados inserir no properties.txt "fabricaDinamica.InseriDados=fabricaDinamica.SalvaDB"
+
+Para gravar objeto em arquivo inserir no properties.txt "fabricaDinamica.InseriDados=fabricaDinamica.SalvaTxt"
+
+Para gravar objeto em formato JSON iserir no properties.txt "fabricaDinamica.InseriDados=fabricaDinamica.SalvaJSON"
+
+

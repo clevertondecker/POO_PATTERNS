@@ -6,7 +6,7 @@
 package fabricaDinamica;
 
 import Conexao.ConexaoDB;
-import Model.Livro;
+import model.Livro;
 import dao.LivroDao;
 import java.sql.Connection;
 

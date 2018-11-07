@@ -1,6 +1,6 @@
 package dao;
 
-import Model.Livro;
+import model.Livro;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
